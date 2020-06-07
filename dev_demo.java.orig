@@ -1,13 +1,13 @@
 main()
 {
-
+<<<<<<< HEAD
 	function1()
 	{
 	}
 	function3()
-	{}
-
+=======
 	funtion2()
+>>>>>>> dev_test
 	{
 	}
 }
